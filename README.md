@@ -1,7 +1,14 @@
 # Rock-Paper-Scissors Game by Ruben 🎮 
 
+## About the Game
+**Rock-Paper-Scissors** is a classic hand game played between two opponents. Each player selects **rock**, **paper**, or **scissors**, and the winner is determined based on simple rules:
+- **Rock** beats **Scissors** (rock crushes scissors).
+- **Scissors** beats **Paper** (scissors cut paper).
+- **Paper** beats **Rock** (paper covers rock).
+- If both players choose the same option, it's a **tie**.
+
 ## Project Goals
-This project implements a simple **Rock-Paper-Scissors** game where a player competes against a computer. The goal is to provide a fun, interactive way to practice basic Python programming while understanding the game logic.
+This project brings the game to life in Python, allowing users to play against a computer opponent with randomized moves.
 
 ## Solution
 I solved this problem using:
