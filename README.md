@@ -22,10 +22,6 @@ I solved this problem using:
 You can find the complete source code here:  
 [👉 Click Here to View Code](https://github.com/codesome-bytes/Rock-Paper-Scissors-By-Ruben/blob/main/rock_paper_scissors_game.py)
 
-## Live Demo 🚀
-
-Try the game instantly on Replit!  
-🔗 [Play Rock-Paper-Scissors Online](https://replit.com/@rlalovski/Rock-Paper-Scissors)
 
 ## Play Online 🎮
 
